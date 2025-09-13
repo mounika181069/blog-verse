@@ -1,0 +1,33 @@
+.mounika{
+  display: flex;
+  gap: 20px;
+}
+
+.productcard{
+  border: 10px solid black;
+  padding: 30px;
+  font-size: 80px;
+
+}
+.product{
+  color: green;
+}
+.products{
+  color: red;
+}
+.small{
+  color: black;
+}
+.big{
+  color: black;
+}
+.mid{
+  color: black;
+}
+.high{
+  color: black;
+}
+.low{
+  color: black;
+}
+
